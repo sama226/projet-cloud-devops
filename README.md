@@ -12,7 +12,7 @@ Construire pas à pas un petit projet complet : scripts Linux, application web, 
 
 ## Avancement
 - [x] Installation de Linux (Ubuntu sous WSL)
-- [ ] Bases de Linux : navigation, fichiers, permissions
+- [x] Bases de Linux : navigation, fichiers, permissions
 - [ ] Bash et Python pour l'automatisation
 - [ ] Fondamentaux du cloud
 - [ ] Docker et CI/CD
